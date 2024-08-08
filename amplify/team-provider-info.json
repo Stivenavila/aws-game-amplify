@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifygame-dev-dbf66-authRole",
+      "UnauthRoleArn": "arn:aws:iam::963753594188:role/amplify-amplifygame-dev-dbf66-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::963753594188:role/amplify-amplifygame-dev-dbf66-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifygame-dev-dbf66-deployment",
+      "UnauthRoleName": "amplify-amplifygame-dev-dbf66-unauthRole",
+      "StackName": "amplify-amplifygame-dev-dbf66",
+      "StackId": "arn:aws:cloudformation:us-east-1:963753594188:stack/amplify-amplifygame-dev-dbf66/be913c50-55dc-11ef-8fd7-125ff6238069",
+      "AmplifyAppId": "d23ga0o2fmsnjo"
+    }
+  }
+}
